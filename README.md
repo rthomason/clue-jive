@@ -1,3 +1,5 @@
+# clue-jive
+
 This project is forked from an early version of [clue](https://github.com/javasoze/clue) and made to work with Lucene 3.x with reduced functionality to prevent users from doing anything destructive to their index.
 
 To run it:
